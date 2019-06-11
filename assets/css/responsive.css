@@ -55,6 +55,7 @@
 	}
 	.header {
 		padding: 15px 0;
+		backgorund-color: #41C0B1;
 	}
 	.header.sticky {
 		padding: 8px 0;
