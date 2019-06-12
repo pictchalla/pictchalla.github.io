@@ -318,6 +318,7 @@ input::-webkit-input-placeholder {
 -------- HEADER AREA CSS START --------
 ---------------------------------------*/
 .header {
+    background-color: #41C0B1;
     position: fixed;
     top: 0;
     left: 0;
